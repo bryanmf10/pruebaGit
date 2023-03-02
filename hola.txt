@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 Paso 1
 
 Paso 2
 
 Paso 3
+=======
+fasdfasshofahsdfasdfasdfasdfasd
+>>>>>>> parent of d74572a (third commit)
